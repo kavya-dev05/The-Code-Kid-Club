@@ -1,0 +1,6 @@
+{
+  "name": "CodeKid Club",
+  "description": "A school club management app for coding clubs, featuring student, teacher, and admin dashboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
